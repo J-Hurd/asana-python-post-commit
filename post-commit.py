@@ -22,8 +22,7 @@
 # ----------------------------------------------------------------------------
 # Written: 10.24.2015
 
-"""This is a python git hook (post-commit) script that closes a given asana task.  This code was developed based on the bash script version available here: https://github.com/Spaceman-Labs/asana-post-commit
-"""
+"""This is a python git hook (post-commit) script that closes a given asana task.  This code was developed based on the bash script version available here: https://github.com/Spaceman-Labs/asana-post-commit."""
 
 import os
 import re
